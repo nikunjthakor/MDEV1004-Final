@@ -1,3 +1,10 @@
+/**
+ *  app.ts
+ * Name:- Nikunj Thakor
+ * StudentId:- 20055644
+ * Date:- 17-08-2024
+ */
+
 import createError, { HttpError } from 'http-errors';
 import express, { NextFunction, Request, Response } from 'express';
 import cookieParser from 'cookie-parser';

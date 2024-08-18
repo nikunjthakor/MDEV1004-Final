@@ -1,3 +1,10 @@
+/**
+ *  book.ts
+ * Name:- Nikunj Thakor
+ * StudentId:- 20055644
+ * Date:- 17-08-2024
+ */
+
 //Book Model
 
 import { Collection, Schema, model } from 'mongoose';

@@ -1,3 +1,9 @@
+/**
+ *  index.ts
+ * Name:- Nikunj Thakor
+ * StudentId:- 20055644
+ * Date:- 17-08-2024
+ */
 import jwt from 'jsonwebtoken';
 import db from '../Config/db';
 

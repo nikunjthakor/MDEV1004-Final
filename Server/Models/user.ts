@@ -1,3 +1,9 @@
+/**
+ *  user.ts
+ * Name:- Nikunj Thakor
+ * StudentId:- 20055644
+ * Date:- 17-08-2024
+ */
 import mongoose, { PassportLocalDocument, Schema, model } from 'mongoose';
 import passportLocalMongoose from 'passport-local-mongoose';
 
